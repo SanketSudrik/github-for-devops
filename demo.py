@@ -3,6 +3,7 @@ def my_function():
     b = 10
     d = a + b
     return d
+    print("call the funtion")
 
 
 # Call the function
