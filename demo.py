@@ -7,4 +7,4 @@ def my_function():
 
 
 # Call the function
-my_function(
+my_function
