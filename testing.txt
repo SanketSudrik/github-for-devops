@@ -1,6 +1,5 @@
 print("hello sanket")
-print ("change")
-print ("hello")
+print("change")
+print("hello")
 print("changes are verified")
 print("today changes")
-
